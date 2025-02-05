@@ -9,7 +9,7 @@
 - Win Positions
 - Total Positions
 
-## Steps to Perform in this assignment:
+## Steps to Perform:
 ### 1. Data Exploration and Cleaning:
 
 - Load and inspect the dataset, handle missing values.
