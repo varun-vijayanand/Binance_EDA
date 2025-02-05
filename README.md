@@ -25,6 +25,3 @@ you can find the dataset here: https://drive.google.com/file/d/1o1SU75o58ZAYsYI7
 
 - Develop an algorithm to rank accounts based on calculated metrics.
 
-### 4. Documentation:
-
-- Provide a concise report on methodology, findings, and assumptions.
